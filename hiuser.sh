@@ -1,15 +1,15 @@
 #!/bin/bash
-
+echo "Enter you name pls!!"
 read name
 
-echo "Hi name"
+echo "Hi $name"
 
 sleep 2
 
-echo "How Aru? name"
+echo "How Aru? $name"
 
 sleep 2
 
-echo "Nice to meet U name"
+echo "Nice to meet U $name"
 
 
