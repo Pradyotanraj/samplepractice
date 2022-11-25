@@ -14,5 +14,5 @@ echo "Nice to meet U $name"
 sleep 2
 
 echo "Thanks for your time.. Bye..."
-
+echo "byee"
 
